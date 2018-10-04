@@ -103,7 +103,6 @@ def telltime():
 ##BOOT
 
 ##speak ("Hello! Please give voice commands only when I'm done talking and after the beep. How may I help?")
-##speak ("Moo Yeh Drugn-yah")
 
 while True:
 
@@ -148,7 +147,7 @@ while True:
         print("Invalid choice.\n")
     
 
-print("EOF: SHOULD NOT HAPPEN")
+
 
 
 
